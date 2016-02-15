@@ -1,0 +1,10 @@
+log4j: where to put properties file?
+
+1. log4j.properties needs to be on the classpath where log4j can find it.
+
+XXX/bin, WEB_INFO/classes, XXX/lib
+
+2. You may also specify the location of the properties by a system property :
+java -Dlog4j.configuration=file:///path/to/log4j.properties MyApplication
+
+-Dlog4j.configuration=file:///E:/[JavaLib]Utility/log4j.properties

@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//resource/conf/app.conf=UTF-8
+encoding//resource/conf/musicsrc.conf=UTF-8
+encoding//src/data/mapping/config/AppConfig.java=UTF-8
+encoding//src/data/mapping/config/ConfigPropertyList.java=UTF-8
+encoding//src/data/mapping/track/TrackVersionsRetrieve.java=UTF-8
+encoding//src/log4j.properties=UTF-8
+encoding/<project>=UTF-8

@@ -1,0 +1,3 @@
+Manifest-Version: 2.0
+Class-Path: log4j-1.2.15.jar commons-logging.jar mysql-connector-java-5.0.7-bin.jar
+Created-By: 2.0 (Yedda Liu)
